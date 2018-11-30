@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Hoja de Vida</title>
+</head>
+
+<body>
+<header>
+  
+<h1><img src="imagen/Logo.jpg" alt="Logo" width="150px"> Hoja de Vida</h1>
+<h2>Datos Personales</h2>
+<h3>Javish Humberto<br>
+Estrada Bonilla<br>
+3 noviembre 1981<br>
+Puerto Plata Rep. Dom.</h3>
+<nav>
+	<a href="index.html">Inicio</a>
+	|
+	<a href="Educaci&oacute;n.html">Educaci&oacute;n</a>
+    |
+	<a href="Experiencia.html">Experiencia</a>
+</nav>
+<h2>Informacion Personal</h2>
+<img src="imagen/exito.svg" alt="Exito" width="300">
+<p><strong>Javish Estrada</strong> es una persona humilde, servicial, dispuesto, que busca ser un especiales en programacion web, para brindale sus servicios a todas aquellas empresas que requiera un profesional preparado y capacitado. Poseo la capacidad de tomar decisiones, facilidad para trabajar en equipo,persistencia y constancia para obtener los resultados deseados, buena capacidad de comunicación tanto verbal como escrita, ser un gran apasionado por el trabajo que se desempeña, conocer y tener amplia experiencia en el tema que se está manejando, tener la capacidad de negociar, excelente capacidad de liderazgo, disponer de pensamiento estratégico, buena capacidad para adaptarse a los cambios.
+<li>Espanol</li>
+<li>Ingles </li>
+</p>
+</header>
+<footer>
+	<strong>Javish_estrada@hotmail.com</strong><br>
+    <strong>809-298-2736</strong><br>
+    <strong>Instagram @JavishEstrada</strong><br>
+</footer>
+</body>
+</html>
